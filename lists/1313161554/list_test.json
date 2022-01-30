@@ -1,0 +1,212 @@
+{
+    "name": "Aurora",
+    "logoURI": "https://raw.githubusercontent.com/aurora-is-near/aurora-press-kit/master/Logos/SVG/aurora-stack.svg",
+    "keywords": [
+      "aurora",
+      "near",
+      "rainbow",
+      "bridge",
+      "audited",
+      "verified"
+    ],
+    "tags": {
+      "aurora": {
+        "name": "Native Aurora",
+        "description": "Tokens that were deployed initially on Aurora."
+      },
+      "near": {
+        "name": "Native NEAR",
+        "description": "Tokens that were deployed initially on NEAR. They have an equivalent token in Aurora."
+      },
+      "ethereum": {
+        "name": "Native Ethereum",
+        "description": "Tokens that were deployed initially on Ethereum. They have an equivalent token in NEAR and Aurora."
+      },
+      "bsc": {
+        "name": "Native BSC",
+        "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
+      },
+      "terra": {
+        "name": "Native Terra",
+        "description": "Tokens that were deployed initially on Terra. They have an equivalent token in Aurora."
+      },
+      "allbridge": {
+        "name": "Bridge Allbridge",
+        "description": "Tokens that were bridged using Allbridge"
+      }
+    },
+    "timestamp": "2022-01-22T13:24:16+00:00",
+    "tokens": [
+      {
+        "chainId": 1313161554,
+        "address": "0x4000Fc079f545EEA02F5CD8F935f3beBc1A0bEf1",
+        "symbol": "MC",
+        "name": "Mutant Coin",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xADb5BDd6f24e0AF7896ae2825B98dcaA1109B82f/logo.png",
+        "tags": []
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+        "symbol": "wNEAR",
+        "name": "Wrapped NEAR",
+        "decimals": 24,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
+        "tags": []
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xaF00ba46B3e7Fea7E39fF320534677a51B88D39C",
+        "symbol": "fNEAR",
+        "name": "Fake Wrapped NEAR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/near.svg",
+        "tags": []
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
+        "symbol": "AURORA",
+        "name": "Aurora",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/aurora.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdc.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+        "symbol": "USDT",
+        "name": "TetherUS",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/usdt.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x098d5b6a26bca1d71f2335805d71b244f94e8a5f",
+        "symbol": "UST",
+        "name": "Wrapped UST",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/ust.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xe3520349f477a5f6eb06107066048508498a291b",
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/dai.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xfca152a9916895bf564e3f26a611f9e1e6aa6e73",
+        "symbol": "LUNA",
+        "name": "Wrapped LUNA",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/luna.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x951cfdc9544b726872a8faf56792ef6704731aae",
+        "symbol": "OCT",
+        "name": "Octopus Network Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/oct.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x07b2055fbd17b601c780aeb3abf4c2b3a30c7aae",
+        "symbol": "OIN",
+        "name": "oinfinance",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/oin.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+        "symbol": "AVAX",
+        "name": "Avalanche",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
+        "tags": []
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "symbol": "MATIC",
+        "name": "Polygon",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
+        "tags": []
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "symbol": "BNB",
+        "name": "Binance Coin",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
+        "tags": [
+          "bsc"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/wbtc.svg",
+        "tags": [
+          "ethereum"
+        ]
+      },
+      {
+        "chainId": 1313161554,
+        "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+        "symbol": "FLX",
+        "name": "Flux Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/flx.svg",
+        "tags": [
+          "ethereum"
+        ]
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "patch": 0
+    }
+  }
