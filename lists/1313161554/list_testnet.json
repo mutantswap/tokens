@@ -39,10 +39,10 @@
   "tokens": [
     {
       "chainId": 1313161555,
-      "address": "0xC16e609F7e486674358D2F45F294A26f18930D40",
+      "address": "0xcCdE08a3A0C3Defd5b29323AAc5187581eb36B78",
       "symbol": "fNEAR",
-      "name": "Near Mock",
-      "decimals": 18,
+      "name": "Fake Near Mock",
+      "decimals": 24,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/near/info/logo.png",
       "tags": [
         "ethereum"
@@ -53,7 +53,7 @@
       "address": "0x565DeAAf20B182E643738B9bD44f58498e0FB22D",
       "symbol": "USDT",
       "name": "Tether Mock",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "tags": [
         "ethereum"
@@ -61,9 +61,9 @@
     },
     {
       "chainId": 1313161555,
-      "address": "0x46B9C67951B9356A7b64F3d3460512c77F570d6D",
-      "symbol": "rMC",
-      "name": "rMutantCoin",
+      "address": "0x00a4d2C1754A0d276dCc26EC4B6d7052fb0DBd73",
+      "symbol": "MCO",
+      "name": "Mutant Coin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xADb5BDd6f24e0AF7896ae2825B98dcaA1109B82f/logo.png",
       "tags": [
@@ -75,7 +75,18 @@
       "address": "0x901fb725c106E182614105335ad0E230c91B67C8",
       "symbol": "USDC",
       "name": "USDC Stablecoin",
-      "decimals": 18,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0x901fb725c106E182614105335ad0E230c91B67C8",
+      "symbol": "fUSDC",
+      "name": "Fake USDC Stablecoin",
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png",
       "tags": [
         "ethereum"
