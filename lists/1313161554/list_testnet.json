@@ -39,7 +39,7 @@
   "tokens": [
     {
       "chainId": 1313161555,
-      "address": "0xcCdE08a3A0C3Defd5b29323AAc5187581eb36B78",
+      "address": "0x7bE946EBcb039f494Ec5767006EA37eBfb4906A4",
       "symbol": "fNEAR",
       "name": "Fake Near Mock",
       "decimals": 24,
@@ -83,7 +83,7 @@
     },
     {
       "chainId": 1313161555,
-      "address": "0x99635152E74e0412E8288B955f1E0C9D9ba5A033",
+      "address": "0x61106e8ee4d7DA217fCB1868F3c6123F08b7bcAE",
       "symbol": "fUSDC",
       "name": "Fake USDC Stablecoin",
       "decimals": 6,
