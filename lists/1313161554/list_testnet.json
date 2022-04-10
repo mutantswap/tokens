@@ -62,10 +62,10 @@
     {
       "chainId": 1313161555,
       "address": "0x00a4d2C1754A0d276dCc26EC4B6d7052fb0DBd73",
-      "symbol": "MCO",
+      "symbol": "MCOIN",
       "name": "Mutant Coin",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xADb5BDd6f24e0AF7896ae2825B98dcaA1109B82f/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/mutantswap/tokens/main/assets/0x00a4d2C1754A0d276dCc26EC4B6d7052fb0DBd73/logo.png",
       "tags": [
         "ethereum"
       ]
@@ -76,7 +76,7 @@
       "symbol": "USDC",
       "name": "USDC Stablecoin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/mutantswap/tokens/main/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png",
       "tags": [
         "ethereum"
       ]
@@ -87,7 +87,7 @@
       "symbol": "fUSDC",
       "name": "Fake USDC Stablecoin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/mutantswap/tokens/main/assets/0x61106e8ee4d7DA217fCB1868F3c6123F08b7bcAE/logo.png",
       "tags": [
         "ethereum"
       ]
