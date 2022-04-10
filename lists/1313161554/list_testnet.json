@@ -72,6 +72,17 @@
     },
     {
       "chainId": 1313161555,
+      "address": "0xf3206383A2151212E96EDA3523C5bB1351F368f0",
+      "symbol": "rMC",
+      "name": "rMutantCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mutantswap/tokens/main/assets/0xf3206383A2151212E96EDA3523C5bB1351F368f0/logo.png",
+      "tags": [
+        "ethereum"
+      ]
+    },
+    {
+      "chainId": 1313161555,
       "address": "0x901fb725c106E182614105335ad0E230c91B67C8",
       "symbol": "USDC",
       "name": "USDC Stablecoin",
